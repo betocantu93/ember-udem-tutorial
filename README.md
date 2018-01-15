@@ -1,6 +1,6 @@
 # ember-udem-tutorial
 
-This README outlines the details of collaborating on this Ember addon.
+This is a set of dependencies for one command Installation and setup of https://github.com/betocantu93/twitch-app
 
 ## Installation
 

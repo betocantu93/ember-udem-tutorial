@@ -1,7 +1,7 @@
 {
   "name": "ember-udem-tutorial",
-  "version": "0.0.32",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.33",
+  "description": "Bundle of dependencies for https://github.com/betocantu93/twitch-app",
   "keywords": [
     "ember-addon"
   ],
@@ -21,7 +21,8 @@
     "ember-cli-babel": "^6.6.0",
     "ember-composable-helpers": "^2.1.0",
     "ember-math-helpers": "^2.4.0",
-    "ember-truth-helpers": "^2.0.0"
+    "ember-truth-helpers": "^2.0.0",
+    "ember-paper": "^1.0.0-beta.4"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
@@ -33,6 +34,7 @@
     "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.0.0",
+    "ember-cli-sass": "^7.1.3",
     "ember-cli-shims": "^1.1.0",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^2.0.0",
